@@ -8,7 +8,7 @@ export default function HomePage(){
       <Header />
       <section className="section">
         <div className="card">
-          <h1 className="text-4xl md:text-5xl font-bold tracking-tight">Hi, I’m Young 👋</h1>
+          <h1 className="text-4xl md:text-5xl font-bold tracking-tight">Hi, I’m Youngkyo Kim 👋</h1>
           <p className="mt-4 text-white/80 max-w-2xl">
             CS @ UW–Madison. I build trading tools, full‑stack web apps, and ML experiments.
             Here you’ll find selected projects, notes, and how to reach me.
