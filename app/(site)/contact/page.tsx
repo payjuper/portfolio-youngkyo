@@ -3,8 +3,6 @@ import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 import { useState } from 'react'
 
-export const metadata = { title: 'Contact · Young' }
-
 export default function ContactPage(){
   const [status, setStatus] = useState<'idle'|'sending'|'ok'|'error'>('idle')
 

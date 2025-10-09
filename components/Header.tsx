@@ -14,7 +14,7 @@ export default function Header(){
   return (
     <header className="sticky top-0 z-50 backdrop-blur supports-[backdrop-filter]:bg-white/5 rounded-b-2xl border-b border-white/10">
       <div className="flex items-center justify-between py-4">
-        <Link href="/" className="font-semibold tracking-tight text-xl">Young</Link>
+        <Link href="/" className="ml-4 font-semibold tracking-tight text-xl">Youngkyo Kim</Link>
         <nav className="flex gap-2 text-sm">
           {links.map(l => {
             const active = pathname === l.href

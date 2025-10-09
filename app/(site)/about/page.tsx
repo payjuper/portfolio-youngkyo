@@ -2,7 +2,7 @@ import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 import Image from 'next/image'
 
-export const metadata = { title: 'About · Young' }
+export const metadata = { title: 'About · Youngkyo' }
 
 export default function AboutPage(){
   return (
